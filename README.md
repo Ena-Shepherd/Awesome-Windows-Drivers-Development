@@ -32,6 +32,11 @@ Simply open a PR ☺️
   - [Red Team Notes](https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals)
   - [WinDbg A-Z](http://windbg.info/download/doc/pdf/WinDbg_A_to_Z_bw2.pdf)
 
+- Useful CheatSheets
+  - [IOCTL Lists](https://learn.microsoft.com/en-us/windows/win32/api/winioctl/#ioctls)
+  - [Device IDs](https://learn.microsoft.com/en-us/windows-hardware/drivers/install/system-defined-device-setup-classes-available-to-vendors)
+  - [NTSTATUS return codes](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-erref/596a1078-e883-4972-9bbc-49e60bebca55)
+
 - Youtube
   - [RicochetTech](https://youtu.be/eE-o25o8ljU?si=_E7BtElE4RzctMu2)
   - [Windows Kernel Programming Fundamentals](https://youtube.com/playlist?list=PLVP36NCkbjNRItWjiHx3ZLyokJxcyrfCl&si=l0bh9tNORltgoERw)
