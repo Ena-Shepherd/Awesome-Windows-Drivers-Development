@@ -1,4 +1,5 @@
 # Awesome Windows Drivers Development
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A list of useful ressources to develop windows drivers
 
 This list also aims at hinting the hard-to-find resources required to learn how to develop windows drivers. <br/>
